@@ -1,33 +1,15 @@
 ## Welcome to  OUR GitHub Pages
 欢迎来到我们的主页！
-### Markdown
+### 寄语：台下坐满了有梦想的人， 但实现梦想的只有台上那个。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 信号语言识别系统
+一、背景
+   
+   语音识别系统的应用可以分为两个发展方向：一个方向是大词汇量连续语音识别系统，主要应用于计算机的听写机，以及与电话网或者互联网相结合的语音信息查询服务系统，这些系统都是在计算机平台上实现的。
 
-# Header 1
-## Header 2
-### Header 3
+   另外一个重要的发展方向是小型化、便携式语音产品的应用，如无线手机上的拨号、汽车设备的语音控制、智能玩具、家电遥控等方面的应用，这些应用系统大都使用专门的第三方软件来实现，特别是近几年来迅速发展的语音信号处理专用芯片（Application Specific Integrated Circuit，ASIC）和语音识别片上系统（System on Chip，SOC）的出现。
+二、系统相关数据分析
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pa-pa-jl/pa-pa-jl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
+三、改进与反思
